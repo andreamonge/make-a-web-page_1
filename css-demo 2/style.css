@@ -1,0 +1,178 @@
+
+.Basics {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+img{
+
+	margin-left:10px;
+   margin-right:10px;
+   border-radius:5%;
+
+}
+
+
+ .weboverview, .languages, .HTML, .Tree, .Box, .Tools, .work, .CSS{
+
+   color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+   justify-content: center;
+
+}
+
+.howwebpage{
+
+	color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   background: rgb(0, 0, 0); 
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+   border-radius: 5px
+
+}
+
+a:link{
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+	text-decoration: none;
+	color:white;
+}
+
+.weboverview{ 
+   
+   position: absolute; 
+   left: 150px; 
+   width: 220px; 
+   right:110px;
+   top:90px;
+   margin-left:35px;
+   text-align: center;
+   }
+
+.howwebpage{
+
+	position: absolute;
+	left: 480px; 
+   width: 220px; 
+   right:110px;
+   top:60px;
+   margin-left: 40px;
+   text-align:center;
+   
+}
+
+.languages{
+
+	position: absolute;
+	left: 810px; 
+   	width: 220px; 
+   	right:110px;
+   	top:65px;
+   	margin-left: 50px;
+   	text-align:center;
+   	
+}
+
+.HTML{
+
+	position: absolute;
+	left: 150px; 
+   	width: 220px; 
+   	right:110px;
+   	top:360px;
+   	margin-left: 35px;
+   	text-align:center;
+   	
+}
+
+.Tree{
+	position: absolute;
+	left: 480px; 
+   	width: 220px; 
+   	right:110px;
+   	top:330px;
+   	margin-left: 40px;
+   	text-align:center;
+   	
+}
+
+.Box {
+	position: absolute;
+	left: 810px; 
+   	width: 220px; 
+   	right:110px;
+   	top:350px;
+   	margin-left: 50px;
+   	text-align: center;
+   	
+}
+
+.Tools {
+position: absolute;
+	left: 150px; 
+   	width: 220px; 
+   	right:110px;
+   	top:620px;
+   	margin-left: 35px;
+   	text-align: center;
+   	
+}
+
+.work {
+	position: absolute;
+	left: 480px; 
+   	width: 220px; 
+   	right:110px;
+   	top:600px;
+   	margin-left: 40px;
+   	text-align: center;
+   	
+}
+
+.CSS {
+	
+	position: absolute;
+	left: 810px; 
+   	width: 220px; 
+   	right:110px;
+   	top:615px;
+   	margin-left: 50px;
+   	text-align: center;
+
+}
+
+#weboverview, #languages, #HTML, #tree, #box, #tools, #tips, #CSS {
+
+	color: white; 
+   font: Helvetica, Sans-Serif;   
+   background: rgba(0, 0, 0, 0.7);
+   text-align: center;
+   margin-left: 20px;
+}
+
+p{
+
+	padding-left: 150px;
+	padding-right: 150px;
+
+}
+
+p a:link{ 
+
+	color: blue;
+
+}
+
+h3{ padding-left: 150px;
+	padding-right: 150px;}
+
+
+
